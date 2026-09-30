@@ -6,16 +6,13 @@ provided in the Green Sheet by my university.
 ## Topics Covered
 
 - Input and Output
-- Conditional Statements
 - Simple Math
 - If-else
 - Loop
 - Geometry
-- Array
-- Simple Data Structure
+- Array/Simple Data Structure
 - String
 - Ad-hoc
-- Problem Solving
 
 ## Purpose
 
